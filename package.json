@@ -33,5 +33,9 @@
       "/node_modules/",
       "/__utils"
     ]
+  },
+  "engines": {
+    "node": "10.15.3",
+    "npm": "6.10.3"
   }
 }
